@@ -46,7 +46,7 @@ const Self = () => {
               </ul>
             </div>
             <div>
-              <h2 className="card-title text-white text-md py-2">
+              <h2 className="card-title text-white text-md py-5">
                 Abhishek Anand 👨‍🎓
               </h2>
               <p className="text-white text-xs">A Software Engineer !</p>
@@ -54,7 +54,7 @@ const Self = () => {
                 <lord-icon
                   src="https://cdn.lordicon.com/yqiuuheo.json"
                   trigger="loop"
-                  delay="1500"
+                  delay="5000"
                   colors="primary:#000000"
                   state="in-unfold"
                   style={{ width: "50px", height: "50px" }}
@@ -73,7 +73,7 @@ const Self = () => {
               <lord-icon
                 src="https://cdn.lordicon.com/tmqaflqo.json"
                 trigger="loop"
-                delay="1500"
+                delay="2500"
                 state="in-unfold"
                 colors="primary:#000000,secondary:#ebe6ef,tertiary:#545454"
                 style={{ width: "40px", height: "40px" }}
@@ -91,7 +91,7 @@ const Self = () => {
               <lord-icon
                 src="https://cdn.lordicon.com/aecbaxnc.json"
                 trigger="loop"
-                delay="2000"
+                delay="2500"
                 colors="primary:#545454,secondary:#000000"
                 style={{ width: "40px", height: "40px" }}
               ></lord-icon>
@@ -109,7 +109,7 @@ const Self = () => {
               <lord-icon
                 src="https://cdn.lordicon.com/iikoxwld.json"
                 trigger="loop"
-                delay="1500"
+                delay="2500"
                 state="in-roll-calm"
                 colors="primary:#545454"
                 style={{ width: "40px", height: "40px" }}
