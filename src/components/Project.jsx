@@ -6,7 +6,6 @@ import gmail_image from "../assets/gmail.jpg";
 import videotube_image from "../assets/videotube.jpg";
 import blog_image from "../assets/blog.jpg";
 import { FaRegEye } from "react-icons/fa";
-import { Link } from "react-router-dom";
 import BottomNav from "./BottomNav";
 const Project = () => {
   const project = [

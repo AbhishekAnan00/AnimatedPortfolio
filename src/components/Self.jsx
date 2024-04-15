@@ -49,7 +49,7 @@ const Self = () => {
               <h2 className="card-title text-white text-md py-5">
                 Abhishek Anand 👨‍🎓
               </h2>
-              <p className="text-white text-xs">A Software Engineer !</p>
+              <p className="text-white text-xs">A Software Developer.</p>
               <a href={res} download="res.pdf">
                 <lord-icon
                   src="https://cdn.lordicon.com/yqiuuheo.json"

@@ -21,7 +21,7 @@ const Contact = () => {
           onSubmit={handleSubmit}
           className="flex flex-col justify-center items-center p-9 mx-auto"
         >
-          <div className="w-full py-2">
+          <div className="py-2">
             <label className="input input-bordered flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -41,7 +41,7 @@ const Contact = () => {
               />
             </label>
           </div>
-          <div className="w-full py-2">
+          <div className="py-2">
             <label className="input input-bordered flex items-center gap-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
